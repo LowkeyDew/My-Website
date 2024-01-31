@@ -1,0 +1,27 @@
+body {
+    text-align:center;
+    font-size: larger;
+}
+#App {
+    background-color:antiquewhite
+}
+.line {
+    Height:6px;
+    background-color: black;
+    width: 70px;
+    margin: 8px auto;
+}
+#games {
+    background-color: aquamarine;
+}
+#Chatbot {
+    background-color: beige;
+}
+#games img{
+    width: 400px;
+    height: 400px;
+}
+#Chatbot iframe{
+    width: 600px;
+    height: 600px;
+}
